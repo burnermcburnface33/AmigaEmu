@@ -1,0 +1,78 @@
+dependencies: \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Option.cpp \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/config.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Option.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/OptionTypes.h \
+  AmigaEmu/Core/Infrastructure/Reflection.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/BasicTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Parser.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Annotations.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/VAmigaTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/EmulatorTypes.h \
+  AmigaEmu/Core/Infrastructure/ThreadTypes.h \
+  AmigaEmu/Core/Components/AmigaTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/ThreadTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Aliases.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Constants.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/CmdQueueTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Joystick/JoystickTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Keyboard/KeyboardTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/CoreComponentTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/DumpableTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/ErrorTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/GuardListTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/MsgQueueTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Zorro/HdControllerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/AmigaTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/AgnusTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/BeamTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/Blitter/BlitterTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/BusTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/Copper/CopperTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/DmaDebugger/DmaDebuggerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Agnus/Sequencer/SequencerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Serializable.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Macros.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/MemUtils.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Checksum.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Buffer.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Compression.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/RingBuffer.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/CIA/CIATypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/CIA/TODTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/CPU/CPUTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Denise/DeniseTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Reflection.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Memory/MemoryTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Paula/PaulaTypes.h \
+  AmigaEmu/Core/Components/Paula/DiskController/DiskControllerTypes.h \
+  AmigaEmu/Core/Components/Paula/Audio/StateMachineTypes.h \
+  AmigaEmu/Core/Components/Paula/Audio/AudioFilterTypes.h \
+  AmigaEmu/Core/Components/Paula/UART/UARTTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/RTC/RTCTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Zorro/ZorroBoardTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Ports/AudioPortTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Paula/Audio/AudioFilterTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Components/Paula/Audio/SamplerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Ports/ControlPortTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Ports/SerialPortTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Ports/VideoPortTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Drive/FloppyDriveTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Drive/DriveTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Media/MediaFileTypes.h \
+  AmigaEmu/Core/Media/RomFiles/RomFileTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Drive/FloppyDiskTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/FileSystems/FSTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/FileSystems/BootBlockImageTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Drive/HardDriveTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Drive/DriveDescriptors.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Mouse/MouseTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Peripherals/Monitor/MonitorTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/LogicAnalyzer/LogicAnalyzerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/Recorder/RecorderTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/RemoteServers/RemoteManagerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/RemoteServers/RemoteServerTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/RetroShell/RetroShellTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Error.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/IOUtils.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/StringUtils.h

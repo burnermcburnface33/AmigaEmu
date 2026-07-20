@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Misc/RemoteServers/Socket.cpp \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/config.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Misc/RemoteServers/Socket.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/CoreObject.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Annotations.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Error.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/ErrorTypes.h \
+  AmigaEmu/Core/Infrastructure/Reflection.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/BasicTypes.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Dumpable.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/DumpableTypes.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/MemUtils.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Checksum.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Macros.h

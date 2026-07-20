@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/OSDebugger/OSDescriptors.cpp \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/config.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Misc/OSDebugger/OSDescriptors.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/CoreObject.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Annotations.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Error.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/ErrorTypes.h \
+  AmigaEmu/Core/Infrastructure/Reflection.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/BasicTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Dumpable.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/DumpableTypes.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Buffer.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Checksum.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Compression.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/MemUtils.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Macros.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/IOUtils.h \
+  /Users/boris/Downloads/GS\ copy/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/StringUtils.h

@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Configurable.cpp \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/config.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Configurable.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/OptionTypes.h \
+  AmigaEmu/Core/Infrastructure/Reflection.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/BasicTypes.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Option.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Parser.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Annotations.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Defaults.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/CoreObject.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Error.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/ErrorTypes.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Dumpable.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/DumpableTypes.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Infrastructure/Synchronizable.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Concurrency.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/Chrono.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/IOUtils.h \
+  /Users/boris/Downloads/GS/Amiga/AmigaEmu/AmigaEmu/Core/Utilities/StringUtils.h

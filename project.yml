@@ -1,0 +1,140 @@
+name: AmigaEmu
+options:
+  bundleIdPrefix: com.boris.amiga
+  deploymentTarget:
+    iOS: "17.0"
+  developmentLanguage: en
+  xcodeVersion: "26.0"
+  groupSortPosition: top
+
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    # vAmiga core genuinely needs C++20 (std::latch, concepts, <filesystem>).
+    # CXX_EXTENSIONS is False upstream → plain c++20, not gnu++20.
+    CLANG_CXX_LANGUAGE_STANDARD: "c++20"
+    CLANG_CXX_LIBRARY: "libc++"
+    GCC_C_LANGUAGE_STANDARD: "gnu11"        # lz4.c + xdms *.c
+    CLANG_ENABLE_OBJC_ARC: YES
+    CLANG_ENABLE_MODULES: YES
+    ENABLE_BITCODE: NO
+    TARGETED_DEVICE_FAMILY: "1,2"
+    SWIFT_OBJC_BRIDGING_HEADER: "AmigaEmu/Bridge/AmigaEmu-Bridging-Header.h"
+    GCC_PREPROCESSOR_DEFINITIONS:
+      - "_USE_MATH_DEFINES=1"
+      - "$(inherited)"
+    # Upstream builds the core -Wall -Werror under emcc; mute for clang/arm64.
+    CLANG_WARN_DOCUMENTATION_COMMENTS: NO
+    GCC_WARN_PEDANTIC: NO
+    GCC_WARN_UNUSED_FUNCTION: NO
+    GCC_WARN_UNUSED_VARIABLE: NO
+    GCC_WARN_SHADOW: NO
+    CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS: NO
+    CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER: NO
+    GCC_WARN_64_TO_32_BIT_CONVERSION: NO
+    CLANG_WARN_IMPLICIT_FALLTHROUGH: NO
+    CLANG_WARN_NON_LITERAL_NULL_CONVERSION: NO
+    CLANG_WARN_OBJC_LITERAL_CONVERSION: NO
+    GCC_WARN_ABOUT_RETURN_TYPE: NO
+    # Both flat includes (internal .cpp) and prefixed includes (VAmigaTypes.h)
+    # must resolve → recursive search path rooted at Core.
+    HEADER_SEARCH_PATHS:
+      - "$(SRCROOT)/AmigaEmu/Core/**"
+      - "$(SRCROOT)/AmigaEmu/Bridge"
+    OTHER_CFLAGS:
+      - "-Wno-everything"
+    OTHER_CPLUSPLUSFLAGS:
+      - "-Wno-everything"
+    GENERATE_INFOPLIST_FILE: NO
+
+targets:
+  AmigaEmu:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    dependencies:
+      - sdk: Foundation.framework
+      - sdk: CoreFoundation.framework
+      - sdk: AVFoundation.framework
+      - sdk: AudioToolbox.framework
+      - sdk: UIKit.framework
+      - sdk: CoreGraphics.framework
+      - sdk: QuartzCore.framework
+      - sdk: Metal.framework
+      - sdk: MetalKit.framework
+      - sdk: GameController.framework
+      - sdk: Combine.framework
+      - sdk: SwiftUI.framework
+      - sdk: UniformTypeIdentifiers.framework
+    sources:
+      - path: AmigaEmu/App
+      - path: AmigaEmu/UI
+      - path: AmigaEmu/Bridge
+      - path: AmigaEmu/Core
+        excludes:
+          - "CMakeLists.txt"                # 40 build files → mis-bundled as resources
+          - "**/CMakeLists.txt"
+          - "Headless.cpp"                  # has its own main()
+          - "Headless.h"
+          - "ThirdParty/xdms/xdms.c"        # standalone CLI tool, own main()
+          - "ThirdParty/xdms/_old_pfile.c"  # dead/superseded
+          # Keep RemoteServers/, Recorder/, httplib.h — Amiga owns RemoteManager,
+          # Agnus/Denise reference the recorder; they compile and stay inert.
+      - path: AmigaEmu/Resources/ROMs
+        type: folder
+        buildPhase: resources
+      - path: AmigaEmu/Resources/Disks
+        type: folder
+        buildPhase: resources
+      - path: AmigaEmu/Resources/Sounds            # floppy drive mechanical sounds
+        type: folder
+        buildPhase: resources
+      - path: AmigaEmu/Resources/Assets.xcassets   # app icon (Boing Ball)
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.boris.amiga
+        PRODUCT_NAME: "Amiga"
+        GENERATE_INFOPLIST_FILE: NO
+        INFOPLIST_FILE: "AmigaEmu/Info.plist"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        # iCloud Drive (CloudDocuments) — the local Documents/Disks library is
+        # mirrored into the iCloud container so imported disks survive the app
+        # and follow the account (Files > iCloud Drive > Amiga). Unsigned
+        # simulator builds get no entitlement at runtime; CloudDiskBackup
+        # degrades to a no-op there.
+        CODE_SIGN_ENTITLEMENTS: "AmigaEmu/AmigaEmu.entitlements"
+      properties:
+        CFBundleDevelopmentRegion: en
+        CFBundleDisplayName: "Amiga"
+        CFBundleShortVersionString: "1.0"
+        CFBundleVersion: "1"
+        UIApplicationSupportsIndirectInputEvents: true
+        UIRequiresFullScreen: true
+        UIStatusBarHidden: false
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        LSSupportsOpeningDocumentsInPlace: true
+        UIFileSharingEnabled: true
+        UISupportsDocumentBrowser: true
+        CFBundleDocumentTypes:
+          - CFBundleTypeName: "Amiga Disk Image"
+            CFBundleTypeRole: Editor
+            LSHandlerRank: Alternate
+            LSItemContentTypes:
+              - public.data
+            CFBundleTypeExtensions:
+              - "adf"
+              - "adz"
+              - "dms"
+              - "hdf"
+              - "hdz"
+              - "img"
+              - "exe"
+              - "rom"

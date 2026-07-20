@@ -1,0 +1,209 @@
+{
+  "" : {
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmu-primary.dia",
+    "emit-module-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmu-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmu-primary-emit-module.dia",
+    "pch" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmu-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmu-primary.swiftdeps"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/App/AmigaEmuApp.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaEmuApp~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/AmigaKeymap.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/AmigaKeymap~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/CloudDiskBackup.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/CloudDiskBackup~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/DPadCustomizerView.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadCustomizerView~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/DPadLayout.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadLayout~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/DPadOverlay.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DPadOverlay~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/DiskManagerView.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/DiskManagerView~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/EmulatorController.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorController~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/EmulatorScreenView.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/EmulatorScreenView~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/GamepadManager.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GamepadManager~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/HardwareKeyboardManager.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/HardwareKeyboardManager~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/JoystickOverlay.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/JoystickOverlay~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/KeyboardInputArea.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/KeyboardInputArea~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/MainView.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/MetalRenderer.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MetalRenderer~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/MouseOverlay.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/MouseOverlay~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/SaveStatesView.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SaveStatesView~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/SettingsView.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/AmigaEmu/UI/SidePanelKeyboard.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/SidePanelKeyboard~partial.swiftmodule"
+  },
+  "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/boris/Downloads/GS copy/Amiga/AmigaEmu/build/DerivedData/Build/Intermediates.noindex/AmigaEmu.build/Debug-iphonesimulator/AmigaEmu.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
